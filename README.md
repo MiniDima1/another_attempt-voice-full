@@ -51,6 +51,6 @@
 - Если игра была открыта во время установки, перезапустите её для корректного применения озвучки.
 
   ## Связь
-  Discord: minidima1
-  Steam minidima11
+ - Discord: minidima1
+ - Steam minidima11
 

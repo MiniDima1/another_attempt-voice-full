@@ -3,6 +3,10 @@
 Это **озвучка "ОЧЕРЕДНАЯ ПОПЫТКА"** для игры [An Alt Girl for Skoof](https://steamcommunity.com/sharedfiles/filedetails/?id=3509185341).  
 Данная озвучка **отсутствует в оригинальном моде**.
 
+## Скачать озвучку
+
+- [Скачать архив с озвучкой (Google Drive)](https://drive.google.com/file/d/1lJK6Bl8ETrGDx-BeShKwMYuC1YIvYscE/view?usp=sharing)  
+
 ## Что добавляет озвучка
 
 - Голос Скуфа и внутренний голос Скуфа (озвучено нейросетью)
